@@ -4,8 +4,8 @@ import { CgProfile } from "react-icons/cg";
 import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
-    <div className="mx-auto w-11/12">
-      <div className="bg-red-700 mx-auto rounded-[30px] py-6 px-3">
+    <div className="mx-auto fixed top-0 w-[100%]  px-4 pb-2 backdrop:blur-sm bg-opacity-80 to-yellow-100 bg-[#ffffffb9] blur-none ">
+      <div className="bg-red-700 mx-auto rounded-[30px] py-6 px-2 w-[100%]">
         <div className="flex items-center justify-between px-4">
         <div className="flex items-center gap-5">
           <p className="text-base text-[#ffffff] font-semibold">Monipur, Mirpur-2, Dhaka</p>
@@ -20,7 +20,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      <div className="navbar bg-base-100 py-6 px-4 flex items-center justify-between">
+      <div className="navbar py-1 px-4 flex items-center justify-between">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -57,10 +57,10 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="text-red-600 font-bold text-5xl">P&P<span className="text-[#131313] font-bold text-5xl">.com</span></a>
+          <a className="text-red-600 font-bold text-3xl">P&P<span className="text-[#131313] font-bold text-3xl">.com</span></a>
         </div>
         <div className="navbar-center hidden lg:flex ">
-          <ul className="menu menu-horizontal px-1 text-lg mt-3">
+          <ul className="menu menu-horizontal px-1 text-base mt-1">
              <li>
                <NavLink to="/">P&P It Zone</NavLink>
               </li>

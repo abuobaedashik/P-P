@@ -3,7 +3,7 @@ import React from "react";
 const Itzone = () => {
   return (
     <div>
-      <div className="flex md:flex-row mx-auto w-11/12 rounded-2xl flex-col items-center justify-between  bg-slate-400 px-5 py-10 mt-4 md:gap-16">
+      <div className="flex mt-44 md:flex-row mx-auto w-11/12 rounded-2xl flex-col items-center justify-between  bg-slate-400 px-5 py-10 md:gap-16">
         <div className="flex flex-col justify-center  md:w-2/5">
           <h1 className="text-4xl mb-7 font-semibold text-[#ffffffe6] ">
             About P&P It Zone
