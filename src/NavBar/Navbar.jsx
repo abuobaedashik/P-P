@@ -1,6 +1,7 @@
 import { FaSearch } from "react-icons/fa";
 import { PiShoppingCartFill } from "react-icons/pi";
 import { CgProfile } from "react-icons/cg";
+import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <div className="mx-auto w-11/12">
@@ -43,7 +44,7 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
             >
               <li>
-                <a>P&P It Zone</a>
+                 <NavLink to="/">P&P It Zone</NavLink>
               </li>
               <li>
                 <a>PFS Save Food</a>
@@ -61,16 +62,19 @@ const Navbar = () => {
         <div className="navbar-center hidden lg:flex ">
           <ul className="menu menu-horizontal px-1 text-lg mt-3">
              <li>
-                <a>P&P It Zone</a>
+               <NavLink to="/">P&P It Zone</NavLink>
               </li>
               <li>
-                <a>PFS Save Food</a>
+                <NavLink to="/savefood">PFS Save Food</NavLink>
               </li>
               <li>
-                <a>P&P Handicrafts</a>
+               <NavLink to="/handicrafts">P&P Handicrafts</NavLink>
               </li>
               <li>
-                <a>PFS Tours & Consultancy</a>
+               <NavLink to="/consultancy">PFS Tours & Consultancy</NavLink>
+              </li>
+              <li>
+               <NavLink to="/contact">Contact</NavLink>
               </li>
           </ul>
         </div>
