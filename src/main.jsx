@@ -23,6 +23,7 @@ const router = createBrowserRouter([
       },
       {
         path:"/savefood",
+        loader:({params})=>fetch("data.json"),
         element:<SaveFood></SaveFood>
       },
       {

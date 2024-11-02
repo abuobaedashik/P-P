@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "productName": "Organic Almonds",
+      "productImage": "https://i.ibb.co.com/kxSzD2V/magalie-de-preux-w-GEt-PYg-FWP8-unsplash.jpg",
+      "description": "High-quality organic almonds, rich in nutrients.",
+      "productTitle": "Premium Organic Almonds"
+    },
+    {
+      "id": 2,
+      "productName": "Dried Mango Slices",
+      "productImage": "https://i.ibb.co.com/bvJb1sG/jun-ren-q-Sl-HOat-Eef0-unsplash.jpg",
+      "description": "Sweet and chewy dried mango slices with no added sugar.",
+      "productTitle": "All-Natural Dried Mango"
+    },
+    {
+      "id": 3,
+      "productName": "Organic Honey",
+      "productImage": "https://example.com/images/honey.jpg",
+      "description": "Raw organic honey from sustainable farms.",
+      "productTitle": "Pure Organic Honey"
+    },
+    {
+      "id": 4,
+      "productName": "Quinoa",
+      "productImage": "https://example.com/images/quinoa.jpg",
+      "description": "Organic quinoa, a great source of protein and fiber.",
+      "productTitle": "Organic Quinoa"
+    },
+    {
+      "id": 5,
+      "productName": "Chia Seeds",
+      "productImage": "https://example.com/images/chia-seeds.jpg",
+      "description": "Nutritious chia seeds, high in omega-3 and fiber.",
+      "productTitle": "Natural Chia Seeds"
+    },
+    {
+      "id": 6,
+      "productName": "Gluten-Free Granola",
+      "productImage": "https://example.com/images/granola.jpg",
+      "description": "Delicious and healthy granola, perfect for breakfast.",
+      "productTitle": "Crunchy Gluten-Free Granola"
+    },
+    {
+      "id": 7,
+      "productName": "Dried Cranberries",
+      "productImage": "https://example.com/images/cranberries.jpg",
+      "description": "Sweetened dried cranberries, great for snacking or baking.",
+      "productTitle": "Sweet Dried Cranberries"
+    },
+    {
+      "id": 8,
+      "productName": "Matcha Green Tea Powder",
+      "productImage": "https://example.com/images/matcha.jpg",
+      "description": "High-quality matcha powder, rich in antioxidants.",
+      "productTitle": "Organic Matcha Powder"
+    },
+    {
+      "id": 9,
+      "productName": "Natural Peanut Butter",
+      "productImage": "https://example.com/images/peanut-butter.jpg",
+      "description": "Creamy peanut butter with no added sugar or preservatives.",
+      "productTitle": "Smooth Natural Peanut Butter"
+    },
+    {
+      "id": 10,
+      "productName": "Coconut Oil",
+      "productImage": "https://example.com/images/coconut-oil.jpg",
+      "description": "Cold-pressed virgin coconut oil for cooking and skincare.",
+      "productTitle": "Organic Virgin Coconut Oil"
+    },
+    {
+      "id": 11,
+      "productName": "Roasted Chickpeas",
+      "productImage": "https://example.com/images/chickpeas.jpg",
+      "description": "Crunchy roasted chickpeas, a great protein-rich snack.",
+      "productTitle": "Spicy Roasted Chickpeas"
+    },
+    {
+      "id": 12,
+      "productName": "Dark Chocolate Bars",
+      "productImage": "https://example.com/images/dark-chocolate.jpg",
+      "description": "Rich dark chocolate bars made with 70% cocoa.",
+      "productTitle": "70% Dark Chocolate Bars"
+    },
+    {
+      "id": 13,
+      "productName": "Whole Grain Oats",
+      "productImage": "https://example.com/images/oats.jpg",
+      "description": "Healthy whole grain oats, perfect for oatmeal or baking.",
+      "productTitle": "Organic Whole Grain Oats"
+    },
+    {
+      "id": 14,
+      "productName": "Flaxseed Meal",
+      "productImage": "https://example.com/images/flaxseed.jpg",
+      "description": "Ground flaxseed, rich in fiber and omega-3 fatty acids.",
+      "productTitle": "Ground Flaxseed Meal"
+    },
+    {
+      "id": 15,
+      "productName": "Raw Cacao Nibs",
+      "productImage": "https://example.com/images/cacao-nibs.jpg",
+      "description": "Pure raw cacao nibs, a healthy alternative to chocolate.",
+      "productTitle": "Organic Cacao Nibs"
+    },
+    {
+      "id": 16,
+      "productName": "Cashew Butter",
+      "productImage": "https://example.com/images/cashew-butter.jpg",
+      "description": "Smooth cashew butter made with roasted cashews.",
+      "productTitle": "Natural Cashew Butter"
+    },
+    {
+      "id": 17,
+      "productName": "Apple Cider Vinegar",
+      "productImage": "https://example.com/images/apple-cider-vinegar.jpg",
+      "description": "Unfiltered apple cider vinegar with mother culture.",
+      "productTitle": "Raw Apple Cider Vinegar"
+    },
+    {
+      "id": 18,
+      "productName": "Pumpkin Seeds",
+      "productImage": "https://example.com/images/pumpkin-seeds.jpg",
+      "description": "Roasted pumpkin seeds, high in protein and fiber.",
+      "productTitle": "Healthy Pumpkin Seeds"
+    },
+    {
+      "id": 19,
+      "productName": "Organic Coconut Flour",
+      "productImage": "https://example.com/images/coconut-flour.jpg",
+      "description": "Low-carb coconut flour, perfect for gluten-free baking.",
+      "productTitle": "Organic Coconut Flour"
+    },
+    {
+      "id": 20,
+      "productName": "Freeze-Dried Strawberries",
+      "productImage": "https://example.com/images/freeze-dried-strawberries.jpg",
+      "description": "Crispy freeze-dried strawberries with no added sugar.",
+      "productTitle": "Natural Freeze-Dried Strawberries"
+    },
+    {
+      "id": 21,
+      "productName": "Almond Flour",
+      "productImage": "https://example.com/images/almond-flour.jpg",
+      "description": "Finely ground almond flour, ideal for gluten-free recipes.",
+      "productTitle": "Blanched Almond Flour"
+    }
+  ]
+  
